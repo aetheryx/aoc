@@ -1,4 +1,4 @@
-const DAY = '2024/day3';
+const DAY = '2024/day4';
 // read file and -w from argv
 
 import { runDay } from './day';
